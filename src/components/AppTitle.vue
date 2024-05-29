@@ -13,9 +13,9 @@
     <h1>{{ Text }}</h1>
   </div>
 </template>
-<style>
+<style scoped>
   div {
-    padding: 25px;
-    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
   }
 </style>
